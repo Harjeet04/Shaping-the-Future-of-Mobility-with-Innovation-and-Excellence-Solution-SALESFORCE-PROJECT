@@ -149,5 +149,43 @@ We test the record-triggered flow by creating a test drive request and observing
 
 ![Email Received](https://github.com/user-attachments/assets/7aab2510-2370-4f12-8a6b-7c50dd31092f)
 
----
+# 💻 Apex Code – Business Logic Automation
+
+To enforce business rules and streamline operational processes, Apex Triggers and Classes are implemented in Salesforce. These automate key actions like preventing orders when vehicles are out of stock and auto-assigning dealers based on customer location.
+
+📄 Trigger: VehicleStockValidationTrigger
+
+This trigger ensures that an order cannot be placed if the selected vehicle is out of stock. It validates stock levels before inserting or updating an order record.
+
+<img width="1598" height="714" alt="20" src="https://github.com/user-attachments/assets/840f0c18-32bd-4005-9d0e-21b755d4055e" />
+
+⚙️ Apex Trigger Preview
+
+The code snippet below shows a part of the logic where the trigger fires before an insert and calls the handler class to validate the stock.
+
+<img width="1597" height="193" alt="20 5" src="https://github.com/user-attachments/assets/688549b2-cc10-43c9-8a14-a29acb030a45" />
+
+
+📦 Apex Class: VehicleStockHandler
+
+The main business logic is handled in a dedicated Apex class, following best practices with trigger handlers. This helps in modularity, reusability, and clean separation of logic.
+
+<img width="1210" height="740" alt="23" src="https://github.com/user-attachments/assets/a2da0c31-f146-4afd-a68e-a44e56931eb3" />
+
+🔄 Trigger: DealerAutoAssignTrigger
+Another trigger runs to automatically assign the nearest dealer to a vehicle order based on the customer's location.ger
+
+<img width="933" height="216" alt="24" src="https://github.com/user-attachments/assets/1de42bc5-af9c-44f6-b57d-0bd0d5882551" />
+
+✅ Object Integration with Trigger Logic
+
+Here's the Vehicle object view after integrating the Apex code. When a vehicle's stock is depleted, users are restricted from placing new orders for it.
+
+<img width="1596" height="645" alt="21 after code" src="https://github.com/user-attachments/assets/32eaa3ad-4970-4715-af74-03c4b1f3530d" />
+
+❌ Out of Stock Scenario (Error Handling)
+
+When the vehicle is out of stock and an order is attempted, the user receives a validation error message—ensuring data integrity and improved user experience.
+
+<img width="906" height="621" alt="22" src="https://github.com/user-attachments/assets/cfc41d06-714e-46d9-8d6f-69e6f2ac82f0" />
 
