@@ -172,16 +172,19 @@ The main business logic is handled in a dedicated Apex class, following best pra
 
 <img width="1210" height="740" alt="23" src="https://github.com/user-attachments/assets/a2da0c31-f146-4afd-a68e-a44e56931eb3" />
 
+
 🔄 Trigger: DealerAutoAssignTrigger
 Another trigger runs to automatically assign the nearest dealer to a vehicle order based on the customer's location.ger
 
 <img width="933" height="216" alt="24" src="https://github.com/user-attachments/assets/1de42bc5-af9c-44f6-b57d-0bd0d5882551" />
+
 
 ✅ Object Integration with Trigger Logic
 
 Here's the Vehicle object view after integrating the Apex code. When a vehicle's stock is depleted, users are restricted from placing new orders for it.
 
 <img width="1596" height="645" alt="21 after code" src="https://github.com/user-attachments/assets/32eaa3ad-4970-4715-af74-03c4b1f3530d" />
+
 
 ❌ Out of Stock Scenario (Error Handling)
 
