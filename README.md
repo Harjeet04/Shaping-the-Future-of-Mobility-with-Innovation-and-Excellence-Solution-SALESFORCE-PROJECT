@@ -19,6 +19,15 @@ The core objective of this Salesforce implementation is to enhance the customer 
 This project leverages the power of Salesforce CRM to align with WhatsNext Vision Motors’ vision of transforming the automotive buying journey while empowering employees with a modern and efficient backend system.
 
 # ⚙️ Create Custom Object
+
+1: Creating Vehicle Custom Object 
 To manage vehicle-related data efficiently, we begin by creating a custom object called Vehicle in Salesforce.
 <img width="940" height="481" alt="image" src="https://github.com/user-attachments/assets/ab58c273-be6c-4982-bec9-c14a09c530e8" />
+
+# Vehicle Object
+<img width="939" height="377" alt="image" src="https://github.com/user-attachments/assets/f30a3093-6b6f-44d6-938c-30caceaca629" />
+
+2:Create Vehicle Dealer Custom Object
+To store and manage dealership information effectively, we create a custom object named Vehicle Dealer.
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/5af521a2-ca75-48b5-add2-1eb8bf92b731" />
 
