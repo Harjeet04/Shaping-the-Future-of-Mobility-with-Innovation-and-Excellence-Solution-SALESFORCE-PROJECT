@@ -130,9 +130,11 @@ Below are the key fields created for each custom object to capture relevant data
 
 Flows are used to automate the business processes such as assigning nearest dealers and sending reminders.
 
+![Flow Builder](https://github.com/user-attachments/assets/1dff25c1-5ab0-4ef3-912d-20a665f5ecfd)
+
+
 ### Record-Triggered Flow Creation
 
-![Flow Builder](https://github.com/user-attachments/assets/1dff25c1-5ab0-4ef3-912d-20a665f5ecfd)
 ![Flow Setup](https://github.com/user-attachments/assets/78d8c88b-24d6-49d3-9698-808b5efff709)
 
 ---
