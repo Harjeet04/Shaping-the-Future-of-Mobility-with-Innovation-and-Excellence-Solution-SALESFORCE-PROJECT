@@ -85,3 +85,23 @@ E:Vehicle_Test_Drive
 F:Vehicle_Service_Request
 <img width="939" height="411" alt="image" src="https://github.com/user-attachments/assets/df14380d-84b0-42a0-8e8d-5ffcc07d5043" />
 
+# Flow Creation and activation
+
+<img width="939" height="411" alt="image" src="https://github.com/user-attachments/assets/1dff25c1-5ab0-4ef3-912d-20a665f5ecfd" />
+
+Record-Trigger Flow Creation
+
+<img width="939" height="391" alt="image" src="https://github.com/user-attachments/assets/78d8c88b-24d6-49d3-9698-808b5efff709" />
+
+
+# Flow testing:
+
+Successfully created vehicle test drive
+
+<img width="939" height="392" alt="image" src="https://github.com/user-attachments/assets/2d04fa12-14e5-4dd9-a674-8b7e60fbe9d4" />
+
+Received email for test drive remainder
+
+<img width="941" height="403" alt="image" src="https://github.com/user-attachments/assets/7aab2510-2370-4f12-8a6b-7c50dd31092f" />
+
+
