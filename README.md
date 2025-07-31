@@ -26,7 +26,7 @@ To manage vehicle-related data efficiently, we begin by creating a custom object
 <img width="940" height="481" alt="image" src="https://github.com/user-attachments/assets/ab58c273-be6c-4982-bec9-c14a09c530e8" />
 
 
-# Vehicle Object
+Vehicle Object
 <img width="939" height="377" alt="image" src="https://github.com/user-attachments/assets/f30a3093-6b6f-44d6-938c-30caceaca629" />
 
 
@@ -34,4 +34,12 @@ To manage vehicle-related data efficiently, we begin by creating a custom object
 
 To store and manage dealership information effectively, we create a custom object named Vehicle Dealer.
 <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/5af521a2-ca75-48b5-add2-1eb8bf92b731" />
+
+3:⚙️Create Other Custom Object
+
+<img width="940" height="355" alt="image" src="https://github.com/user-attachments/assets/cc6aca83-3fd6-4461-a4fa-52d708392f28" />
+
+4: Custom Tabs for all Custom Objects
+
+<img width="939" height="394" alt="image" src="https://github.com/user-attachments/assets/c60efa5e-fea9-4c8d-b454-6b84beaaa3b3" />
 
