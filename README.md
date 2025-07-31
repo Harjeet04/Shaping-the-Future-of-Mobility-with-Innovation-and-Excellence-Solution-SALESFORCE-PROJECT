@@ -30,7 +30,7 @@ Vehicle Object
 <img width="939" height="377" alt="image" src="https://github.com/user-attachments/assets/f30a3093-6b6f-44d6-938c-30caceaca629" />
 
 
-2:Create Vehicle Dealer Custom Object
+2: Create Vehicle Dealer Custom Object
 
 To store and manage dealership information effectively, we create a custom object named Vehicle Dealer.
 <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/5af521a2-ca75-48b5-add2-1eb8bf92b731" />
@@ -42,4 +42,46 @@ To store and manage dealership information effectively, we create a custom objec
 4: Custom Tabs for all Custom Objects
 
 <img width="939" height="394" alt="image" src="https://github.com/user-attachments/assets/c60efa5e-fea9-4c8d-b454-6b84beaaa3b3" />
+
+# Creating the Lightning App
+
+<img width="938" height="434" alt="image" src="https://github.com/user-attachments/assets/043a7668-d795-40e0-970b-b62695674329" />
+
+1:Adding items needed 
+
+<img width="939" height="386" alt="image" src="https://github.com/user-attachments/assets/a7779abc-afb6-4e5c-b96e-1f2857cab01b" />
+
+2:Adding user profile
+
+<img width="939" height="388" alt="image" src="https://github.com/user-attachments/assets/d42c9667-ec13-4f39-9068-cde739235463" />
+
+3:WhatNext Vision App look
+
+<img width="941" height="441" alt="image" src="https://github.com/user-attachments/assets/ed225fcd-c5cb-4406-97f4-4ac69df374c4" />
+
+
+# Fields & Relationships along with Key Fields for Each Object
+
+A: Vehicle
+<img width="939" height="427" alt="image" src="https://github.com/user-attachments/assets/6012996e-d359-4bf2-b925-29e5227614cb" />
+
+
+B:Vehicle_ Dealer
+<img width="941" height="416" alt="image" src="https://github.com/user-attachments/assets/c2e90721-bb9b-491c-a564-26162c2da516" />
+
+
+C:Vehicle_Customer
+<img width="938" height="436" alt="image" src="https://github.com/user-attachments/assets/a85c9fe3-8ed5-4e25-8f07-1bb39ed96243" />
+
+
+D:Vehicle_Order
+<img width="939" height="361" alt="image" src="https://github.com/user-attachments/assets/ee8c7ac2-f5cf-4261-af02-1c24a64ff145" />
+
+
+E:Vehicle_Test_Drive
+<img width="939" height="384" alt="image" src="https://github.com/user-attachments/assets/23feb2d2-db14-4d7f-a18a-6c5c659f1bb2" />
+
+
+F:Vehicle_Service_Request
+<img width="939" height="411" alt="image" src="https://github.com/user-attachments/assets/df14380d-84b0-42a0-8e8d-5ffcc07d5043" />
 
