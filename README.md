@@ -17,3 +17,8 @@ The core objective of this Salesforce implementation is to enhance the customer 
 📧 Automated notifications for test drives and stock updates
 
 This project leverages the power of Salesforce CRM to align with WhatsNext Vision Motors’ vision of transforming the automotive buying journey while empowering employees with a modern and efficient backend system.
+
+# ⚙️ Create Custom Object
+To manage vehicle-related data efficiently, we begin by creating a custom object called Vehicle in Salesforce.
+<img width="940" height="481" alt="image" src="https://github.com/user-attachments/assets/ab58c273-be6c-4982-bec9-c14a09c530e8" />
+
